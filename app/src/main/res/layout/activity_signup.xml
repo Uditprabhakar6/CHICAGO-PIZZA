@@ -32,6 +32,7 @@
             android:id="@+id/email"
             android:ems="10"
             android:inputType="text"
+            android:textColor="#ffffff"
             android:textSize="22sp"
             />
     </com.google.android.material.textfield.TextInputLayout>
@@ -68,6 +69,7 @@
             android:id="@+id/cnfrmpassword"
             android:ems="10"
             android:inputType="text"
+            android:textColor="#ffffff"
             android:textSize="22sp"
             />
     </com.google.android.material.textfield.TextInputLayout>
