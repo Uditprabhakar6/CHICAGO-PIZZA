@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973424092949",
+    "firebase_url": "https://chicago-pizza-1093.firebaseio.com",
+    "project_id": "chicago-pizza-1093",
+    "storage_bucket": "chicago-pizza-1093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973424092949:android:7f01856b85e9d5698e6b1c",
+        "android_client_info": {
+          "package_name": "in.ac.sharda.chicagopizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973424092949-7hb3mopdjg0q4lk27lbfflic11htq45c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.sharda.chicagopizza",
+            "certificate_hash": "50c4e12722d897ff4892b5c4ff3eaba6eef19960"
+          }
+        },
+        {
+          "client_id": "973424092949-lt8h6id6ioluna4d2o3bhornsc8ndo6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwzwIvAKTKi6ZsOF90Dmj374eRloCsynQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973424092949-lt8h6id6ioluna4d2o3bhornsc8ndo6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
